@@ -26,9 +26,10 @@ void loop() {
 
 
 
-
-
-
-
 **SIMULACION EN WOKI**
 !![](https://github.com/FANDINO7/PRACTICA-CON-SENSOR-DHT22-/blob/main/DH22%20SESOR%20DE%20TEMPERATURA%20.jpg?raw=true)
+
+**Instrucciones de operación**
+1Iniciar el Simulador 2.- Visualizar la obtención de los datos en el monitor serial 3.- Obtener la temperatura y la humedad dando click dos veces a nuestro sensor DHT22
+
+**Resultados**
