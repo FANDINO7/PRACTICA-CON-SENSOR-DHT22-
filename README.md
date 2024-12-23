@@ -35,3 +35,6 @@ void loop() {
 **Resultados**
 
 !![](https://github.com/FANDINO7/PRACTICA-CON-SENSOR-DHT22-/blob/main/resultados.jpg?raw=true)
+
+
+
