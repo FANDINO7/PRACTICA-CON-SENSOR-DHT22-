@@ -33,4 +33,5 @@ void loop() {
 1Iniciar el Simulador 2.- Visualizar la obtención de los datos en el monitor serial 3.- Obtener la temperatura y la humedad dando click dos veces a nuestro sensor DHT22
 
 **Resultados**
+
 !![](https://github.com/FANDINO7/PRACTICA-CON-SENSOR-DHT22-/blob/main/resultados.jpg?raw=true)
